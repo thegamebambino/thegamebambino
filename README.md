@@ -1,16 +1,12 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/thegamebambino">Programmer</a>, <a href="https://www.linkedin.com/in/alexander-carruthers-ab0b63314/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC_C5ZNBtAaQ7m9qgYi_vIbQ">YouTuber</a></h1>
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/thegamebambino">Aspiring Devops</a> | <a href="https://www.linkedin.com/in/alexander-carruthers-ab0b63314/">Entry Level CyberSecurity</a> | <a href="https://www.youtube.com/channel/UC_C5ZNBtAaQ7m9qgYi_vIbQ">YouTube Tutorials</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>HTML</b>
 
   - [Portfolio Website (In Progress)]
-  
-<b>Python</b>
-  - [Python Project 1]
-  - [Python Project 2]
 
-    
-
+  <h2>Cloud and Devops Projects</h2>
+     -<b>[AWS Project 1]</b>
 
 
 <h2>Cybersecurity Projects</h2>
