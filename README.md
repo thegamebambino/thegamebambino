@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>HTML</b>
 
-  - [Portfolio Website (In Progress)]
+  - Portfolio Website (In Progress)
 
   <h2>Cloud and Devops Projects</h2>
-     -<b>[AWS Project 1]</b>
+     -<b>AWS Project 1</b>
 
 
 <h2>Cybersecurity Projects</h2>
