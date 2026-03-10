@@ -10,7 +10,7 @@
 
 
 <h2>Cybersecurity Projects</h2>
-  -<b>[Cloud Cybersecurity Lab with AWS and Terraform]</b>
+  -<b>Cloud Cybersecurity Lab with AWS and Terraform</b>
 
 
 <h2>Active Directory and SysAdmin Projects</h2>
@@ -19,10 +19,10 @@
 
   <h2>📺 YouTube Videos</h2>
 
-- [Creating a Cloud Based Homelab with AWS and Terraform]
-- [Installing and Configuring a Pi-Hole Server with AWS EC2 Instance]
-- [Setting Up and Configuring Wireguard VPN]
-- [Windows Active Directory Homelab]
+- Creating a Cloud Based Homelab with AWS and Terraform
+- Installing and Configuring a Pi-Hole Server with AWS EC2 Instance
+- Setting Up and Configuring Wireguard VPN
+- Windows Active Directory Homelab
   
 
 
